@@ -1,0 +1,36 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# Virtual Environments
+venv/
+env/
+env.bak/
+venv.bak/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
